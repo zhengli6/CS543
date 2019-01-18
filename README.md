@@ -2,4 +2,4 @@
 Vision Based 3-D Shape Reconstruction of Flexible Manipulators from Multiple Images
 This project is written in Matlab.
 
-For more details, please see the [report](report.pdf)
+For more details, please see the [report](CS543_FINAL_REPORT.pdf)
